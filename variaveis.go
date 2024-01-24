@@ -2,6 +2,17 @@ package main
 
 import "fmt"
 
+//Os tipos de variáveis mais comuns em Go são:
+//
+//int: números inteiros
+//float64: números de ponto flutuante
+//string: strings
+//bool: valores booleanos
+//array: arrays
+//slice: slices
+//map: mapas
+//struct: structs
+
 func main() {
 	var nome string = "Maria"
 	var idade int = 30
