@@ -10,4 +10,4 @@ func main() {
 	fmt.Print("Meu nome é ", nome, " tenho ", idade, " anos, meu email é ", email, " minha altura é ", altura, " e meu peso é ", peso, "kg.")
 }
 
-// go run variaveisComum.go
+// go run variaveisComuns.go
