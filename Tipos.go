@@ -14,7 +14,14 @@ func stringType() {
 	fmt.Println("Meu nome é", nome)
 }
 
+func floatType() {
+	altura := 1.65
+
+	fmt.Println("Minha altura é", altura)
+}
+
 func main() {
 	intType()
 	stringType()
+	floatType()
 }
