@@ -7,3 +7,14 @@ func intType() {
 
 	fmt.Println("Minha idade é", idade)
 }
+
+func stringType() {
+	nome := "Maria"
+
+	fmt.Println("Meu nome é", nome)
+}
+
+func main() {
+	intType()
+	stringType()
+}
