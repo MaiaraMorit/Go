@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+//caso não saiba qual é o tio de uma determinada variável use o seguinte comando:
+//fmtPrintf("Tipo: %T Valor: %v\n", nomeDaSuaVariável)
+
 func intType() {
 	idade := 45
 
