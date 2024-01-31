@@ -20,8 +20,15 @@ func floatType() {
 	fmt.Println("Minha altura é", altura)
 }
 
+func boolType() {
+	verdadeiro := true
+
+	fmt.Println("Verdadeiro é", verdadeiro)
+}
+
 func main() {
 	intType()
 	stringType()
 	floatType()
+	boolType()
 }
