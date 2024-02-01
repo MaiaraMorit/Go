@@ -5,3 +5,4 @@ O foco deste repositório é dar pequenos passos em direção ao conhecimento da
 * Compreendendo Tipos
 * Concatenação de String
 * Convenção de tipos
+* Inferência de tipos
