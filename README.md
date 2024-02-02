@@ -6,3 +6,5 @@ O foco deste repositório é dar pequenos passos em direção ao conhecimento da
 * Concatenação de String
 * Convenção de tipos
 * Inferência de tipos
+* Constantes
+* soma de inteiros
